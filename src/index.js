@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Cadastro from './pages/Cadastro';
 import './styles/global.css'
+import Checkout from './pages/checkout/Checkout.js';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Cadastro />
+    <Checkout />
   </React.StrictMode>
 );

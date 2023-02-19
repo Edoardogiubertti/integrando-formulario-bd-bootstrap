@@ -1,6 +1,6 @@
 import React from 'react'
 import dog from '../assets/dog.png'
-import { Header } from '../components/header/Header.js'
+import { Header } from '../../components/header/Header.js'
 
 const Cadastro = () => {
   return (

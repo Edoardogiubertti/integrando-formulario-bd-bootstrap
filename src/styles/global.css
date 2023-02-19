@@ -36,6 +36,7 @@ input[type='date']:disabled {
     color: #626264;
 }
 
+
 .bg-secondary {
     background-color: var(--secondary) !important;
 }
@@ -52,6 +53,15 @@ input[type='date']:disabled {
 .btn-secondary:hover {
     background-color: var(--secondary) !important;
     border-color: var(--secondary) ;
+}
+
+.btn-primary,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary:disabled,
+.btn-primary:hover {
+    background-color: var(--primary) !important;
+    border-color: var(--primary) ;
 }
 
 .bg-primary {
