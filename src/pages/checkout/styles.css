@@ -1,5 +1,5 @@
 .section-title {
-    border-bottom: 2px solid var(--primary) !important;
+    border-bottom: 2px solid rgb(var(--primary)) !important;
     padding-bottom: 7px;
     margin: 20px 0;
     display: inline-block;
