@@ -10,7 +10,7 @@ const Product = () => {
                 </div>
                 <div className='col-6'>
                     <small>
-                        <label>R$ 30,00</label>
+                        <label className='badge badge-primary'>R$ 30,00</label>
                     </small>
                     <small>
                         <b>Nome do Produto</b>

@@ -9,9 +9,9 @@ const Card = () => {
             <h4>
                 <label className='badge badge-primary'>R$ 40,00</label>
             </h4>
-            <smal>
+            <small>
                 <b>Ração Premiere para cães de porte Médio</b>
-            </smal>
+            </small>
         </div>
     )
 }

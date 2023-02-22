@@ -46,6 +46,11 @@ input[type='date']:disabled {
 }
 
 
+.product button.btn-secondary {
+    padding: 6px 14px;
+}
+
+
 .btn-secondary,
 .btn-secondary:focus,
 .btn-secondary:active,

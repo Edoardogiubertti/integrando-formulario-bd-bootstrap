@@ -14,13 +14,13 @@ const Petshop = () => {
                         <img alt="logo da petlove" src='https://dashboard.clubevantagens.com.br/wp-content/uploads/listing-uploads/logo/2022/10/petlove_clubevantagens_logo.jpg' className='img-fluid petshop-image'></img>
                         <b>Petlove</b>
                         <div className='petshop-infos'>
-                            <span class="mdi mdi-star"></span>
+                            <span className="mdi mdi-star"></span>
                             <text>
                                 <b>2,8</b>
                             </text>
-                            <span class="mdi mdi-cash-usd-outline"></span>
+                            <span className="mdi mdi-cash-usd-outline"></span>
                             <text>$$$</text>
-                            <span class="mdi mdi-crosshairs-gps"></span>
+                            <span className="mdi mdi-crosshairs-gps"></span>
                             <text>2,9 km</text>
                             <label className='badge badge-primary'>Frete Grátis</label>
                         </div>
