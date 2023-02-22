@@ -1,11 +1,11 @@
 import React from 'react'
-import dog from '../assets/dog.png'
+import dog from '../../assets/dog.png'
 import { Header } from '../../components/header/Header.js'
 
 const Cadastro = () => {
   return (
     <div className='container-fluid h-100 bg-primary'>
-      <Header></Header>
+      <Header hideCart></Header>
       <div className='row text-center'>
         <div className='col-3'></div>
         <div className='col-3 text-right my-auto'>

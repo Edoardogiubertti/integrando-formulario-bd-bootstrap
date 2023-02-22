@@ -6,7 +6,7 @@ import Product from '../../components/product/list'
 const Checkout = () => {
   return (
     <div className='h-100'>
-        <Header></Header>
+        <Header hideCart></Header>
         <div className='container mt-4'>
             <div className='row'>
                 <div className='col-6'>
